@@ -18,6 +18,8 @@
     // Override point for customization after application launch.
     NSLog(@"这是切换本地分支dev");
     NSLog(@"创建远程分支,要先创建本地分支,然后将本地分支push远程分支");
+    
+    NSLog(@"测试下勾选");
     return YES;
 }
 
